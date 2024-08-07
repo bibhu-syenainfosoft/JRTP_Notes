@@ -1,0 +1,7 @@
+1. JIRA is a project management tool/software. In IT sector the task assignment(who will do which task we will track on through ZIRA) happens through JIRA. The TL/Manager will assign the task to employees through ZIRA software. After login the employee will open the ZIRA software and checks which task he/she needs to do.
+
+2. Maven & Gradle are the build tools that is used to automate the dependencies so that the developers don't need to add the JAR files manually.
+
+3. Git & Bitbucket are the version control software used to store all developers source code at one place. It integrates the source code of all developers.
+
+4. Log monitoring means taking the log file, see the log message, finding problem, go to the project and fix the problem. To connecting one system to another system we need to use Putty/WinSCP/Splunk. they are used to monitor log files.
