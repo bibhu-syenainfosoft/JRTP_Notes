@@ -5,3 +5,8 @@
 3. Git & Bitbucket are the version control software used to store all developers source code at one place. It integrates the source code of all developers.
 
 4. Log monitoring means taking the log file, see the log message, finding problem, go to the project and fix the problem. To connecting one system to another system we need to use Putty/WinSCP/Splunk. they are used to monitor log files.
+
+5. Code review means whatever the code we are writing there is bug or not, the code is developed through proper coding standard or not, Is there duplicate code available or not, security is properly maintained or not. All the mistakes of developers are identified by SonarQube.
+
+6. Performance testing means if there is multiple users then how our project is responding.
+	
