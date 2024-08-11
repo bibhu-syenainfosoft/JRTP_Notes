@@ -1,0 +1,34 @@
+1. We can create maven project inside CMD as well as inside IDE.
+
+2. Dependency means the JARs required for the project.
+
+3. After creating one maven project we need to go inside the project then we need to type "mvn compile" which is used to compile the project source codes and generate target(.class) folder.
+
+4. "mvn clean" goal is used to delete the target folder.
+
+5. "mvn clean compile" goal is used delete the existing class file and creates a new .class file.
+
+6. "mvn test" goal is used to execute all the JUnit test cases and unit test cases in our application.
+
+7. "mvn clean package" goal/plugin will compile and test the project also. It will delete the target folder, compile the project, execute the test cases and package the project as a jar/war file.
+
+8. If we wanna give the jar file name as my friendly name we need to use <finalName></finalName> tag inside <build> tag.
+
+9. .class files are available in target folder.
+
+10. Transitive dependency means, when we try to add any dependency, then the corresponding required child dependency will be added inside it.
+
+11. command to create maven web app:-
+mvn archetype:generate -DgroupId=com.syena -DartifactId=demoWebApp -DarchetypeArtifactId=maven-archetype-webapp -Darchetypeversion=1.0 -DinteractiveMode=false
+
+12. When we need any jars first maven will check inside local repository(.m2) if it is there then will provide the jar otherwise download the jar from central repository and stores the jar inside local repository.
+
+13. Apache is maintaining the central repository.
+
+14. Remote repository is specific to companies. Only company members can access the remote repository. The devOps people adds the jars inside remote repository.  
+
+
+
+
+
+	

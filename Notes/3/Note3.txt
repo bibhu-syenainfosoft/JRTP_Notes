@@ -1,0 +1,23 @@
+1. GitHub integrates the code of all the developers working in the same project at different locations.
+
+2. If a tester finds an issue that the login functionality is not working then he did not make a phone call and will not tell to developer that the login functionality is not working, In case of JIRA if the tester finds any issue then he will create a bug in JIRA and he will assign the bug to developer in ZIRA. The developer will get the notification through his email and fix the issue.
+
+3. If we search any product in flip kart and amazon then the same advertisement will show in Facebook/ Instagram, this functionality can be done through Apache Kafka.
+Two applications can be communicate and exchange the information through one mediator i.e Apache Kafka.
+
+4. Redis cache is used to improve the performance of the application by reducing the no of db calls. suppose there is a static data i.e countries, then when first user search country data then it will go to the db and fetch country details and stores the data in Cache so that is accessible when all other user will access the same functionality.
+
+5. Containerization is what when we develops 1 project then we are using different technologies like Java, Angular, Oracle, so for this we are installing separate software's but in case of Docker we need to make a request file that what are the software's requires, it downloads all the corresponding versions software that is required for the code, we don't need to download manually. 
+
+6. Kubernetes is used to automate Containerization. Orchestration means management. How many docker container will be created, when to create docker container, increase/decrease the count of the container, these can be maintained by Kubernetes.
+
+7. To use Maven we need to download the java software and need to set the path for java.
+
+8. If we are unable to run Maven project inside eclipse then we need to delete .m2 file and restart the IDE.   
+
+
+
+
+
+
+	
