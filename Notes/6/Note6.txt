@@ -17,13 +17,16 @@ profile->settings->Developer settings->Personal access tokens->token(classic)
 "git help commit" command will show all the git commands as a document on the browser.
 "touch abc.java" command is used to create one file.
 "git help init" command will show the documentation of init command.
-"git init" is used to create/initialize an empty repository.
+"git init" command is used to create/initialize an empty repository.
+"git restore --staged <fileName>" command is used move the file from staged area to working tree.
+"git restore" command is used to discard the changes.
+
 
 7. Use of token is to commit and pull the file from system/to system very securely.
 
 8. At the time of git status the red color file means the file is not added into stage area, green means already added.
 
-9. The files that are added into stage area that will be comitted only.
+9. The files that are added into stage area that will be committed only.
 
 
 
