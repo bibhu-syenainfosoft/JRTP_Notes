@@ -1,0 +1,34 @@
+1. Q. How to download the dependencies from remote repository.
+To connect remote repository we need to configure the repository url and password inside settings.xml placed inside maven conf directory.
+First we need to go to settings.xml placed inside conf directory, inside <servers> tag we need to write one more <server> tag and we will put id, username and password, Second step is that inside mirror tag we need to configure the remote repository url and we need to configure blocked as false. So that our maven project will be able to connect with remote repository and able to download the depoendencies.
+
+2. Maven "install" goal is used to store project artifact inside repository/artifact server.
+"install" goal that uploads our project(war/jar file) into repository whether it may be local or remote.
+When we execute "install" goal all other goals will be executed internally.
+
+3. The advantage of multi module project is maintenance is very easy.
+In case of parent-child relation type the parent project packaging type should be "pom".
+We can create child projects as module, we can create multiple modules for one parent.
+When we will package the parent app then the all corresponding module will be packaged.
+
+4. Inside JAR file too many packages and too many .class files are available.
+
+5. When maven downloads the JAR file, it is added to project build path, whenever we run our application all the .class files available inside jar file and our compiled .class file will be added into JVM memory.
+
+6. Maven dependency scope means when maven should load the dependency into the build path. In which phase(compile,test) the dependency should load that is decided by maven dependency scope.
+
+7. Dependency scope "test" means the maven will load the dependency when the test goal is excecuted. 
+Dependency scope "compile" means the maven will load the dependency when the compile goal is excecuted. 
+Dependency scope "runtime" means when our project is running phase at that time only this scope will be executed.
+Dependency scope "provided" means When we require any dependency at the time of compillation but not at runtime at that time scope should be "provided".
+Dependency scope "system" means when we want to load the dependency from our system.
+
+8. Removing unwanted child dependency from build path is known as dependency exclusion.
+
+
+
+
+
+
+	
+	

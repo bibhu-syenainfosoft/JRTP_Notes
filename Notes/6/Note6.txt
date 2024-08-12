@@ -1,0 +1,34 @@
+1. Difference between maven repository and git repository is maven repository is used to manage dependencies where as git repository is used to manage source code.
+
+2. Example of git client software are git bash, tortoise git.
+
+3. It is responsible to create git repository by devOps team, they will give url to developers, so that the developers can connect and can access.
+
+3. If we wanna connect our system into git repository then we need to create a token inside git repository.
+   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 (JRTP_Token)
+profile->settings->Developer settings->Personal access tokens->token(classic)
+
+4. Realtime projects are inside the private repository, so that only the company members are able to access it.
+
+5. Git client acts as a mediator between developer and github repository.
+
+6. "git config --global user.name="bibhu"","git config --global user.email="bibhu@gmail.com"" is used to configure the username and password.
+"git help" command will show all the frequently used commands.
+"git help commit" command will show all the git commands as a document on the browser.
+"touch abc.java" command is used to create one file.
+"git help init" command will show the documentation of init command.
+"git init" is used to create/initialize an empty repository.
+
+7. Use of token is to commit and pull the file from system/to system very securely.
+
+8. At the time of git status the red color file means the file is not added into stage area, green means already added.
+
+9. The files that are added into stage area that will be comitted only.
+
+
+
+
+
+
+	
+	
