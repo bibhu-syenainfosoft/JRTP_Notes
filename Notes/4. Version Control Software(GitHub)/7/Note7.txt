@@ -1,0 +1,26 @@
+"git branch" command will show all the branches ans the current branch.
+"git checkout develop" commans means switching from main branch to develope branch.
+"git clone -b <branchName> <cloneURL>" command is used to clone the project of a particular branch.
+
+1. For merging branch we need to go to the option "Pull requests" inside github.
+
+2. main branch is same as master branch.
+
+3. When we will clone the project then by default we clone the default branch i.e main/master.
+
+4. In realtime Branches and Repositories are created by DevOps team. 
+
+5. We can give our private repository access to other member so that they can push the changes into my repository.(settings->collaborators->add people)
+
+6. We can make our private repository to public repository.(settings->collaborators->manage who can access->manage->change visibility)
+
+7. If we want to push our maven project source code, at the time of pushing whatever the files that we dont want to push(ignore) then we need to mention the file name inside .gitignore file.
+
+8. Inside bitbucket creating one project means a project has a lot of repositories, every microservices should be configured inside one repository.
+
+9. As compared to github, bitbucket UI is good and also bitbucket has a lot of advanced features as like realtime project commits,branches,pull requests etc.
+
+
+
+
+	

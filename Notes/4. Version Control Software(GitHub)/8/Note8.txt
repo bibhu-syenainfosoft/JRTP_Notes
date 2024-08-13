@@ -1,0 +1,11 @@
+1. "git pull" vs "git fetch"
+When we will use "git pull" command then the latest changes will download/update directly from remote repository to our working tree where as when we will use "git fetch" then the latest changes will download from remote repository to local repository but not directly to our working tree. If we want to update the latest changes from local repository to working tree then we have to use again "git pull" command.
+
+2. "git merge <branchName>" command is used to merge one branch data into another branch. 
+Thhe difference between "git merge" and "git rebase" command is "git merge" command maintains the commit history where as "git rebase" command does not maintain commits history.   
+
+3. "git merge main" means if we are inside another branch like branch1,develope then the main branch data will update to current branch.
+
+
+
+	
