@@ -1,0 +1,23 @@
+"git tag" command will display all the available tags.
+"git tag abV1.0" command will create a new tag named abV1.0.
+"git push origin abV1.0" will push the newly created tag to git remote repository.
+"git help tag" will display tag related commands inside browser as a documentation.
+
+1. Generally tags concept is not for Java developers DevOps team will create amd manage the tags.
+
+2. Suppose there is a scenario like the devops team wants to deploy the changes done by yesterday but they dont want to deploy the latest changes done by today then yesterday the devops team need to create one tag, inside tag we can download the changes zip file.
+
+3. We can perform Git operations through git bash(through git commands) as well as through Git GUI(without any git commands).
+
+4. "git diff" command will show the changes uncomitted code. 
+
+5. We can perform the git operations inside IDE like Visual Studio Code, Eclipse, Spring Tool Suite.
+(Inside Spring tool suite right click on project->Team->all git operations)
+
+We can compare our local repository code with remote repository code as like in VS code we use for merging the code.(right click on project->Team->Synchronized workspace)
+
+6. Instead of opening another new window for getting the files inside left side(Window->perspective->reset perspective)
+
+
+
+	

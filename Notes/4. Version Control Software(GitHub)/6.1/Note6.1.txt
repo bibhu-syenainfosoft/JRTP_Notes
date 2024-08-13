@@ -1,10 +1,9 @@
-1.
 "git log" command is used to view the history of commits.
 "git rm <fileName/.>" command is used to delete the file from local as well as remote but after using this command we have to commit and push.
 "clean" command is used to clear the git bash console.
 "git revert <commitID>" command is used to revert all the changes through this commit id. we will get this commit id through git log command.
 
-2. CLONE is used to take the entire projects but PULL is used to take only the latest changes that happened inside the project.
+1. CLONE is used to take the entire projects but PULL is used to take only the latest changes that happened inside the project.
 
 
 
