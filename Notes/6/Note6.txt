@@ -18,8 +18,9 @@ profile->settings->Developer settings->Personal access tokens->token(classic)
 "touch abc.java" command is used to create one file.
 "git help init" command will show the documentation of init command.
 "git init" command is used to create/initialize an empty repository.
-"git restore --staged <fileName>" command is used move the file from staged area to working tree.
+"git restore --staged <fileName>" command is used move the file from staged area to working tree(To unstage the file).
 "git restore" command is used to discard the changes.
+"git remote add origin <url>" command is used to add git repository url to our working directory.
 
 
 7. Use of token is to commit and pull the file from system/to system very securely.
