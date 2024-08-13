@@ -1,6 +1,6 @@
 1.
 "git log" command is used to view the history of commits.
-"git rm" command is used to delete the file from local as well as remote but after using this command we have to commit and push.
+"git rm <fileName/.>" command is used to delete the file from local as well as remote but after using this command we have to commit and push.
 
 
 
