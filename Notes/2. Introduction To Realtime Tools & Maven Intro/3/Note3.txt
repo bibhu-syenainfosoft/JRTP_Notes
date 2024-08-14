@@ -5,7 +5,7 @@
 3. If we search any product in flip kart and amazon then the same advertisement will show in Facebook/ Instagram, this functionality can be done through Apache Kafka.
 Two applications can be communicate and exchange the information through one mediator i.e Apache Kafka.
 
-4. Redis cache is used to improve the performance of the application by reducing the no of db calls. suppose there is a static data i.e countries, then when first user search country data then it will go to the db and fetch country details and stores the data in Cache so that is accessible when all other user will access the same functionality.
+4. Redis cache is used to improve the performance of the application by reducing the no of db calls. suppose there is a static data i.e. countries, then when first user search country data then it will go to the db and fetch country details and stores the data in Cache so that is accessible when all other user will access the same functionality.
 
 5. Containerization is what when we develops 1 project then we are using different technologies like Java, Angular, Oracle, so for this we are installing separate software's but in case of Docker we need to make a request file that what are the software's requires, it downloads all the corresponding versions software that is required for the code, we don't need to download manually. 
 

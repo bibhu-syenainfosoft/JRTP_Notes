@@ -2,7 +2,7 @@
 
 2. Example of git client software are git bash, tortoise git.
 
-3. It is responsible to create git repository by devOps team, they will give url to developers, so that the developers can connect and can access.
+3. It is responsible to create git repository by devOps team, they will give URL to developers, so that the developers can connect and can access.
 
 3. If we wanna connect our system into git repository then we need to create a token inside git repository.
    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 (JRTP_Token)
@@ -10,7 +10,7 @@ profile->settings->Developer settings->Personal access tokens->token(classic)
 
 4. Realtime projects are inside the private repository, so that only the company members are able to access it.
 
-5. Git client acts as a mediator between developer and github repository.
+5. Git client acts as a mediator between developer and GitHub repository.
 
 6. "git config --global user.name="bibhu"","git config --global user.email="bibhu@gmail.com"" is used to configure the username and password.
 "git help" command will show all the frequently used commands.
@@ -18,9 +18,9 @@ profile->settings->Developer settings->Personal access tokens->token(classic)
 "touch abc.java" command is used to create one file.
 "git help init" command will show the documentation of init command.
 "git init" command is used to create/initialize an empty repository.
-"git restore --staged <fileName>" command is used move the file from staged area to working tree(To unstage the file).
+"git restore --staged <fileName>" command is used move the file from staged area to working tree(To onstage the file).
 "git restore" command is used to discard the changes.
-"git remote add origin <url>" command is used to add git repository url to our working directory.
+"git remote add origin <url>" command is used to add git repository URL to our working directory.
 
 
 7. Use of token is to commit and pull the file from system/to system very securely.
