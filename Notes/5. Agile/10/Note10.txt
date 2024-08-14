@@ -1,0 +1,36 @@
+1. There are 2 SDLC methodologies are there. Waterfall Model(outdated model) and Agile Model(mostly used model).
+
+2. In case of Waterfall model the requirement is fixed, budget is fixed, all the SDLC phases happens one by one but not at a time. 
+In this case client involvement is not there, the client will review the project at the end which is not a good process. 
+Addition of new functionality is not possible in this case.
+The problems are is the client will review the project at the last if he does not like the developement process and requirements, then all of the work and money will go waste, so client involvement in each and every phases as well as client satifaction is most important in projects.
+In the case once the developement starts there is no chance to change the requirements.
+Testing will happen in the end.
+
+
+3. In case of Agile model the requirement is not fixed, budget is not fixed, all the SDLC phases happens at parallaly. 
+In this case client involvement is there in each and every phases, the client will review the project in each and every phases i.e called as Sprint. 
+Addition of new functionality and new enhancements should be done at the time of development.
+If the client will review in each and every phases then later he cannot say I am not satisfied the project development and functionality.
+Agile breaks the project developement lifecycle into sprints.
+
+4. "Sprint" means it is a fixed time period in which some specific tasks should be developed and made ready to be review. It is a key component of frameworks like Scrum.It means also it divides the software development into small small parts.
+
+5. The client will give the design docuemnt as FDD(Functional Design Document)/BRD(Business Requirement Docuemnt)/SRS(Software Requirement Specification) document.
+
+6. Everyday we need to communicate with scrum master regarding the work status.In Scrum Meeting we need to discuss what we have done today/yesterday, work status and problems in developing. Planned leave and unplanned leave we need to inform to Scrum master.
+
+7. Product owner and Scrum master mostly from non-technical background, even though tehy don't know Java/.Net.They are managing people.
+
+8. In Scrum meeting Scrum master will not down our work statuses. If we are absent in scrum meetings then we need to email to Scrum master about our work status.
+
+9. sbidevops@tcs.com, we can call this mail id as email group/DL(Distribution List) i.e when we will send the email to this mail id then all the registered mail id will get the message so that we dont need to send the mail to each one separately.
+
+10. Every story is considered as one task. If we did not complete the story/task with in the specific period of time then we need to describe with our Scrum Master.
+
+11. If any story is taking more than 3 days then we have to split and break down into 2 stories.
+
+
+
+
+	
