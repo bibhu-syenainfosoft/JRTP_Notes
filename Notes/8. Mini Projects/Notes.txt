@@ -1,0 +1,9 @@
+1. If we are using Angular as UI then we have to use @RestController, but when we are using JSP/Thymeleaf then we can simply use @Controller.
+
+2. Incase of Spring webservices we have Controller->Service->DAO hierachy. But Incase of Springboot websevices we have Controller->Service->Repository.
+
+3. If we don't add the tomcat jasper dependency then our jsp page will be downloaded, So we have to add the tomcat jasper dependency.
+
+4. Inside Springboot writing @repository annotation is optional but in case of DAO class it is mandatory.
+
+5. Total no of tables in project should be same as total no of entity/model class and total no of repositories.
